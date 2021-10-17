@@ -7,5 +7,7 @@ a weekly digest.
 
 **TL;DR** Just open an issue.
 
-The title of your issue is included in the weekly digest with a link to the issue itself. 
+The title of your issue is included in the weekly digest with a link to the issue itself.
 Hence, you can include additional information, screenshots, links in the issue description if you want to show more.
+
+TEST
