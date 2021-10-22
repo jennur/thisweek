@@ -20,7 +20,7 @@ jobs:
       uses: actions/checkout@v2
     # Run local action
     - name: Weekly digest
-      uses: lnielsen/digest-action@v1
+      uses: jennur/digest-action@v1
       id: digest
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
