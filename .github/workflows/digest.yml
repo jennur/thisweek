@@ -24,6 +24,7 @@ jobs:
       id: digest
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
+
     # Mark this week's issues as stale and close them after one month.
     - name: Manage issues
       uses: actions/stale@v4
