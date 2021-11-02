@@ -10,4 +10,4 @@ a weekly digest.
 The title of your issue is included in the weekly digest with a link to the issue itself.
 Hence, you can include additional information, screenshots, links in the issue description if you want to show more.
 
-TEST
+Once a week we collect all issue titles and send them to Discord.
