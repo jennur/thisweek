@@ -32,8 +32,8 @@ jobs:
       uses: actions/stale@v4
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        days-before-stale: 7
-        days-before-close: 31
+        days-before-stale: 1
+        days-before-close: 1
         ignore-updates: true
         stale-issue-label: 'Archived'
         stale-pr-label: 'Archived'
